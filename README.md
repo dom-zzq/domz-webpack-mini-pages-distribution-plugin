@@ -15,7 +15,7 @@ a webpack plugin to create image for introducing pages distribution
 
 ### How to use in Node
     let test = new GeneratePagesDistributionPlugin({
-        rootProjectName: '招金猫小程序',
+        rootProjectName: 'xxx小程序',
         fileName: 'pagesDistribution',
         dataType: 'tree', // tree|array
         inputFile: path.join(__dirname, 'pages.json'),
