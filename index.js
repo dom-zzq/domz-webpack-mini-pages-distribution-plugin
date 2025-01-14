@@ -17,7 +17,7 @@ class GeneratePagesDistributionPlugin {
 	}
 
 	apply(compiler) {
-		compiler.hooks.emit.tapAsync('GeneratePagesDistributionPlugin', this.hooksHandle());
+		compiler.hooks.emit.tapAsync('GeneratePagesDistributionPlugin', this.hooksHandle);
 	}
 
 	hooksHandle(compilation, callback) {
