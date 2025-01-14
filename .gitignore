@@ -1,0 +1,14 @@
+dist
+node_modules
+package-lock.json
+
+# Mac files
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Ignore xlsx files generated during testing
+*.xlsx
+enpm-lock.yaml
