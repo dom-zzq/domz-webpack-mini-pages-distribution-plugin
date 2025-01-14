@@ -13,9 +13,9 @@
   "author": "domz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dom-zzq/domz-cli/issues"
+    "url": "https://github.com/dom-zzq/domz-webpack-mini-pages-distribution-plugin/issues"
   },
-  "homepage": "https://github.com/dom-zzq/domz-cli#readme",
+  "homepage": "https://github.com/dom-zzq/domz-webpack-mini-pages-distribution-plugin#readme",
   "dependencies": {
     "exceljs": "^4.4.0"
   }
